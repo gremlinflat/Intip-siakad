@@ -3,12 +3,12 @@
     "name": "My Extension",
     "version": "1.0",
     "description": "This extension is a starting point to create a real Chrome extension",
-    "permissions": ["activeTab"],
-    "action": {
-        "default_popup": "popup.html"
-    },
+    "permissions": ["activeTab", "scripting"],
     "background": {
         "service_worker": "background.js"
-      }
+    },
+    "action": {
+        
+    }
 
 }
