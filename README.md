@@ -13,7 +13,7 @@ git clone
 - Alternatively, click on the Extensions menu puzzle button and select **Manage Extensions** at the bottom of the menu.
 - Or, click the Chrome menu, hover over **More Tools**, then select **Extensions**.
 
-![load-unpack]([http://url/to/img.png](https://github.com/gremlinflat/Intip-siakad/blob/master/docs/load-unpack.png?raw=true)
+![load-unpack](https://github.com/gremlinflat/Intip-siakad/blob/master/docs/load-unpack.png?raw=true)
 
 2. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
 
