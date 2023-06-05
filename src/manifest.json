@@ -1,14 +1,18 @@
 {
     "manifest_version": 3,
     "name": "🫣 Intip SIAKAD",
-    "version": "1.0",
-    "description": "This extension is a starting point to create a real Chrome extension",
+    "version": "1.4",
+    "description": "an Extension to reveal grades in the siakad itera so you can see your classmates' grades 💀",
     "permissions": ["activeTab", "scripting"],
     "background": {
         "service_worker": "background.js"
     },
     "action": {
-        
+        "default_icon": {
+            "16": "/icons/16.png",
+            "32": "/icons/32.png",
+            "48": "/icons/48.png",
+            "128": "/icons/128.png"
+        }
     }
-
 }
